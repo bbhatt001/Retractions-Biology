@@ -1,0 +1,1 @@
+This folder contain files used in analyzing retractions in biomedical literature. The data was obtained from Pubmed and is in the folder repapers2.xml. The final analysis is in full_retraction_v1.6.ipynb. 
